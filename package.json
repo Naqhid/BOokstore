@@ -1,15 +1,12 @@
 {
-  "name": "bookstore-react-redux",
+  "name": "bookstore-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "bootstrap": "^4.5.2",
-    "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
     "react-scripts": "3.4.3",
@@ -37,8 +34,12 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.7.0",
-    "eslint-config-airbnb": "^18.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^2.5.1",
     "stylelint": "^13.3.3",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-csstree-validator": "^1.8.0",
